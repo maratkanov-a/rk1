@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">rk1</string>
+    <string name="vice">VICE_CITY</string>
+    <string name="racoon">RACCOON_CITY</string>
+    <string name="springfield">SPRINGFIELD</string>
+    <string name="silent">SILENT_HILL</string>
+    <string name="south">SOUTH_PARK</string>
+    <string name="dont">Не обновлять в фоне</string>
+    <string name="update">Обновлять в фоне</string>
+</resources>
